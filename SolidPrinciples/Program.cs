@@ -6,7 +6,7 @@ namespace SolidPrinciples
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from git!");
+            Console.WriteLine("Hello World from Git!");
         }
     }
 }
