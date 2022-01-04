@@ -1,0 +1,16 @@
+D:\Workspace\DesignPatterns\SolidPrinciples\bin\Debug\net5.0\SolidPrinciples.exe
+D:\Workspace\DesignPatterns\SolidPrinciples\bin\Debug\net5.0\SolidPrinciples.deps.json
+D:\Workspace\DesignPatterns\SolidPrinciples\bin\Debug\net5.0\SolidPrinciples.runtimeconfig.json
+D:\Workspace\DesignPatterns\SolidPrinciples\bin\Debug\net5.0\SolidPrinciples.runtimeconfig.dev.json
+D:\Workspace\DesignPatterns\SolidPrinciples\bin\Debug\net5.0\SolidPrinciples.dll
+D:\Workspace\DesignPatterns\SolidPrinciples\bin\Debug\net5.0\ref\SolidPrinciples.dll
+D:\Workspace\DesignPatterns\SolidPrinciples\bin\Debug\net5.0\SolidPrinciples.pdb
+D:\Workspace\DesignPatterns\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.csproj.AssemblyReference.cache
+D:\Workspace\DesignPatterns\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DesignPatterns\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.AssemblyInfoInputs.cache
+D:\Workspace\DesignPatterns\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.AssemblyInfo.cs
+D:\Workspace\DesignPatterns\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.csproj.CoreCompileInputs.cache
+D:\Workspace\DesignPatterns\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.dll
+D:\Workspace\DesignPatterns\SolidPrinciples\obj\Debug\net5.0\ref\SolidPrinciples.dll
+D:\Workspace\DesignPatterns\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.pdb
+D:\Workspace\DesignPatterns\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.genruntimeconfig.cache
