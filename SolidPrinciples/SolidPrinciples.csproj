@@ -1,8 +1,24 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="SOLID.DIP.cs" />
+    <Compile Remove="SOLID.ISP.cs" />
+    <Compile Remove="SOLID.LSP.cs" />
+    <Compile Remove="SOLID.OCP.cs" />
+    <Compile Remove="SOLID.SRP.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="SOLID.DIP.cs" />
+    <None Include="SOLID.ISP.cs" />
+    <None Include="SOLID.LSP.cs" />
+    <None Include="SOLID.OCP.cs" />
+    <None Include="SOLID.SRP.cs" />
+  </ItemGroup>
 
 </Project>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using static System.Console;
 namespace BuilderPattern
 {
-    public class Person
+    public  class Person
     {
         public string Name, Position;
 
@@ -53,11 +53,11 @@ namespace BuilderPattern
     public class FluentInhertitanceWithGenerics
     {
 
-        static void Main(string[] args)
-        {
-            var buider = Person.New.Called("MSN").WorksAs("Dev").Build() ;
-            WriteLine(buider.ToString());
+        //static void Main(string[] args)
+        //{
+        //    var buider = Person.New.Called("MSN").WorksAs("Dev").Build() ;
+        //    WriteLine(buider.ToString());
 
-        }
+        //}
     }
 }

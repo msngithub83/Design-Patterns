@@ -8,7 +8,7 @@ namespace BuilderPattern
     public class HtmlElement
     {
         public List<HtmlElement> Elements = new List<HtmlElement>();
-        private int indentSize = 2;
+        private const int indentSize = 2;
         public string Name, Text;
         public HtmlElement()
         {
