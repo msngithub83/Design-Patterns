@@ -4,7 +4,6 @@ using System.Text;
 using static System.Console;
 namespace BuilderPattern
 {
-
     public class HtmlElement
     {
         public List<HtmlElement> Elements = new List<HtmlElement>();
@@ -12,7 +11,6 @@ namespace BuilderPattern
         public string Name, Text;
         public HtmlElement()
         {
-
         }
 
         public HtmlElement(string name, string text)
@@ -45,7 +43,6 @@ namespace BuilderPattern
         {
             return ToStringImpl(0);
         }
-
     }
 
     public class HtmlBuilder
@@ -74,7 +71,6 @@ namespace BuilderPattern
         public void Clear()
         {
             root = new HtmlElement() { Name=rootName};
-           // root.Name = rootName;
         }
 
         public override string ToString()
